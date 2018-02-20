@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\TIMER\Debug\TIMER.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\TIMER\TIMER.c"
+-lang=c
+-nologo

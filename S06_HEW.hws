@@ -1,0 +1,66 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"11.0" 
+[WORKSPACE_DETAILS]
+"S06_HEW" "C:\WorkSpace\S06_HEW" "C:\WorkSpace\S06_HEW\S06_HEW.hws" "H8S,H8/300" "Hitachi H8S,H8/300 Standard" 
+[SHARED_WORKSPACE_CONTROL_STATUS]
+"" "" "" 
+"" "" "" 
+[PROJECTS]
+"7SEG01" "C:\WorkSpace\S06_HEW\7SEG01" "C:\WorkSpace\S06_HEW\7SEG01\7SEG01.hwp" 0 
+"AD01" "C:\WorkSpace\S06_HEW\AD01" "C:\WorkSpace\S06_HEW\AD01\AD01.hwp" 0 
+"AD02" "C:\WorkSpace\S06_HEW\AD02" "C:\WorkSpace\S06_HEW\AD02\AD02.hwp" 0 
+"CONT" "C:\WorkSpace\S06_HEW\CONT" "C:\WorkSpace\S06_HEW\CONT\CONT.hwp" 0 
+"ENC01" "C:\WorkSpace\S06_HEW\ENC01" "C:\WorkSpace\S06_HEW\ENC01\ENC01.hwp" 0 
+"LCD01" "C:\WorkSpace\S06_HEW\LCD01" "C:\WorkSpace\S06_HEW\LCD01\LCD01.hwp" 0 
+"LCD02" "C:\WorkSpace\S06_HEW\LCD02" "C:\WorkSpace\S06_HEW\LCD02\LCD02.hwp" 0 
+"LED01" "C:\WorkSpace\S06_HEW\LED01" "C:\WorkSpace\S06_HEW\LED01\LED01.hwp" 0 
+"LED02" "C:\WorkSpace\S06_HEW\LED02" "C:\WorkSpace\S06_HEW\LED02\LED02.hwp" 0 
+"LED03" "C:\WorkSpace\S06_HEW\LED03" "C:\WorkSpace\S06_HEW\LED03\LED03.hwp" 0 
+"MOTOR" "C:\WorkSpace\S06_HEW\MOTOR" "C:\WorkSpace\S06_HEW\MOTOR\MOTOR.hwp" 0 
+"SERVO01" "C:\WorkSpace\S06_HEW\SERVO01" "C:\WorkSpace\S06_HEW\SERVO01\SERVO01.hwp" 0 
+"SW01" "C:\WorkSpace\S06_HEW\SW01" "C:\WorkSpace\S06_HEW\SW01\SW01.hwp" 0 
+"SW02" "C:\WorkSpace\S06_HEW\SW02" "C:\WorkSpace\S06_HEW\SW02\SW02.hwp" 0 
+"SW03" "C:\WorkSpace\S06_HEW\SW03" "C:\WorkSpace\S06_HEW\SW03\SW03.hwp" 0 
+"SerialR" "C:\WorkSpace\S06_HEW\SerialR" "C:\WorkSpace\S06_HEW\SerialR\SerialR.hwp" 0 
+"SerialT" "C:\WorkSpace\S06_HEW\SerialT" "C:\WorkSpace\S06_HEW\SerialT\SerialT.hwp" 0 
+"TB01" "C:\WorkSpace\S06_HEW\TB01" "C:\WorkSpace\S06_HEW\TB01\TB01.hwp" 0 
+"THERMO" "C:\WorkSpace\S06_HEW\THERMO" "C:\WorkSpace\S06_HEW\THERMO\THERMO.hwp" 0 
+"TIMER" "C:\WorkSpace\S06_HEW\TIMER" "C:\WorkSpace\S06_HEW\TIMER\TIMER.hwp" 0 
+"TZ01" "C:\WorkSpace\S06_HEW\TZ01" "C:\WorkSpace\S06_HEW\TZ01\TZ01.hwp" 0 
+"TZ02" "C:\WorkSpace\S06_HEW\TZ02" "C:\WorkSpace\S06_HEW\TZ02\TZ02.hwp" 0 
+"WKP01" "C:\WorkSpace\S06_HEW\WKP01" "C:\WorkSpace\S06_HEW\WKP01\WKP01.hwp" 0 
+"serial01" "C:\WorkSpace\S06_HEW\serial01" "C:\WorkSpace\S06_HEW\serial01\serial01.hwp" 0 
+"serial02R" "C:\WorkSpace\S06_HEW\serial02R" "C:\WorkSpace\S06_HEW\serial02R\serial02R.hwp" 0 
+"serial02T" "C:\WorkSpace\S06_HEW\serial02T" "C:\WorkSpace\S06_HEW\serial02T\serial02T.hwp" 0 
+[INFORMATION]
+"ワークスペース情報がありません" 
+[SCRAP]
+[PROJECT_DEPENDENCY]
+[WORKSPACE_PROPERTIES]
+[HELP_FILES]
+"c:\program files (x86)\renesas\hew\tools\renesas\h8\6_2_2\hew\Stdlib.chm" "C/C++ Standard Library Help" 1 
+[GENERAL_DATA_PROJECT]
+[USERMENUTOOLS]
+[CUSTOMPLACEHOLDERS]
+[MAKEFILE_BUILD_INFO]
+"$(WORKSPDIR)\make\$(PROJECTNAME)_$(CONFIGNAME).mak" "" "$(WORKSPDIR)\make" 0 0 0 
+[VD_CONFIGURATION_OPTIONS]
+"ACTIVE_DESKTOP" "0" 
+[VD_CONFIGURATIONS]
+"0" "Default1" "1" 
+"1" "Default2" "1" 
+"2" "Default3" "1" 
+"3" "Default4" "1" 
+[OPTIONS_DEBUG_TAB]
+0 0 0 0 0 
+[VCS]
+"" "" "" 0 
+[VCS_PROJECT]
+[MAKEFILE_ENV_STRINGS]
+[MAKEFILE_ENV_FLAGS]
+1 0 0 
+[MAKEFILE_CLEAN_INFO]
+"" 
+[END]

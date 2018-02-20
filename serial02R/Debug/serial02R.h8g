@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\serial02R\Debug\serial02R.lib"
+-head=runtime

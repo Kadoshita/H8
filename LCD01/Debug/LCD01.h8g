@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\LCD01\Debug\LCD01.lib"
+-head=runtime

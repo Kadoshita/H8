@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\AD01\Debug\AD01.lib"
+-head=runtime

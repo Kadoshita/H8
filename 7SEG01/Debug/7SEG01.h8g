@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\7SEG01\Debug\7SEG01.lib"
+-head=runtime

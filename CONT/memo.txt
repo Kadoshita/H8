@@ -1,0 +1,16 @@
+move 50mm
+rotation=50/(15.5*3.14)
+108pulse/rotation
+http://edu.ichinoseki.ac.jp/moodle2014/pluginfile.php/55314/mod_resource/content/6/sousei08.pdf#page=2
+count=108/rotation=108/(50/(15.5*3.14))
+600P/(15.5*3.14)
+2P/R
+1/300
+300R->1R
+600P->1R
+600P->(15.5*3.14)
+616P/50mm
+
+WKP
+http://edu.ichinoseki.ac.jp/moodle2014/pluginfile.php/55314/mod_resource/content/6/sousei08.pdf#page=15
+photo microsensor

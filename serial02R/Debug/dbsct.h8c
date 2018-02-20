@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\serial02R\Debug\dbsct.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\serial02R\dbsct.c"
+-lang=c
+-nologo

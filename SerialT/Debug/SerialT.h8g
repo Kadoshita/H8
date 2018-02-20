@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\SerialT\Debug\SerialT.lib"
+-head=runtime

@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\TB01\Debug\TB01.lib"
+-head=runtime

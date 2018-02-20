@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\SerialT\Debug\SerialT.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\SerialT\SerialT.c"
+-lang=c
+-nologo

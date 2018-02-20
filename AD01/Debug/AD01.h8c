@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\AD01\Debug\AD01.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\AD01\AD01.c"
+-lang=c
+-nologo

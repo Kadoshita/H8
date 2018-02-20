@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\serial02R\Debug\serial02R.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\serial02R\serial02R.c"
+-lang=c
+-nologo

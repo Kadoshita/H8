@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\TZ01\Debug\TZ01.lib"
+-head=runtime

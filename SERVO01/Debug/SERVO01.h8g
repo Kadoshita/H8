@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\SERVO01\Debug\SERVO01.lib"
+-head=runtime

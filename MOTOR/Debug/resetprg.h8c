@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\MOTOR\Debug\resetprg.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\MOTOR\resetprg.c"
+-lang=c
+-nologo

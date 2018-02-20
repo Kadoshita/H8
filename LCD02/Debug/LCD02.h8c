@@ -1,0 +1,8 @@
+-cpu=300HN
+-object="C:\WorkSpace\S06_HEW\LCD02\Debug\LCD02.obj"
+-debug
+-nolist
+-chgincpath
+"C:\WorkSpace\S06_HEW\LCD02\LCD02.c"
+-lang=c
+-nologo

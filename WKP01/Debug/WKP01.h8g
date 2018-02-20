@@ -1,0 +1,3 @@
+-cpu=300HN
+-output="C:\WorkSpace\S06_HEW\WKP01\Debug\WKP01.lib"
+-head=runtime
